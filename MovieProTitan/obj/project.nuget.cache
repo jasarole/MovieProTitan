@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+HkqsPG0qa36Fq9m218550gh+TromLTLr6FEpWHpuyuJkMECTFTXOtyRyN087uACwnYcOx+4JXI5l9V/rXk1Ow==",
+  "dgSpecHash": "EqUf/eyKm4i+w7k8H1qwcMNZKkZl4lo/U0heiTzbwrvTIEEX4HbOq7isi/6N0rEKy/0kKrJjRyyfoK2cl9D8Lg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jason\\source\\repos\\MovieProTitan\\MovieProTitan\\MovieProTitan.csproj",
   "expectedPackageFiles": [
@@ -52,6 +52,8 @@
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\Jason\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",
+    "C:\\Users\\Jason\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\5.0.10\\npgsql.entityframeworkcore.postgresql.5.0.10.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
